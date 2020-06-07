@@ -1,4 +1,3 @@
 # mcskyfall.org
 
-Website repository for mcskyfall.org
-Developed and Maintained by Baricaade
+Website repository for mcskyfall.org, developed and maintained by Baricaade.
