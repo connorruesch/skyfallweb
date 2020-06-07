@@ -1,6 +1,6 @@
 <template>
     <div id="app">
-        <Navbar v-on:scroll.native="handleScroll" />
+        <Navbar />
         <router-view />
     </div>
 </template>
@@ -12,16 +12,6 @@ export default {
     name: "App",
     components: {
         Navbar
-    },
-    methods: {
-        handleScroll() {
-            const navbar = document.querySelector(".navigation");
-            if (window.scrollY > 50) {
-                navbar.classList.add("navScroll");
-            } else {
-                navbar.classList.remove("navScroll");
-            }
-        }
     }
 };
 </script>
