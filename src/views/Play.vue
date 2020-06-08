@@ -5,12 +5,17 @@
 </template>
 
 <script>
-import StaticHandler from "../components/StaticHandler";
+import StaticHandler from '../components/StaticHandler';
 
 export default {
-    name: "Play",
+    name: 'Play',
     components: {
-        StaticHandler
-    }
+        StaticHandler,
+    },
+    metaInfo() {
+        return {
+            title: 'SkyFall Network | Play',
+        };
+    },
 };
 </script>

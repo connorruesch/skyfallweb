@@ -9,6 +9,7 @@
                 <b-nav-item class="padding" to="/rules">Rules</b-nav-item>
                 <b-nav-item class="padding" to="/play">Play</b-nav-item>
                 <b-nav-item class="padding" to="/announcements">Announcements</b-nav-item>
+                <b-nav-item class="padding" to="/">Support</b-nav-item>
             </b-navbar-nav>
 
             <a href="https://mcskyfall.org/discord" class="ml-auto discord">

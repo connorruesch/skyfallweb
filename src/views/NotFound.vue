@@ -13,7 +13,12 @@
 
 <script>
 export default {
-    name: "NotFound"
+    name: 'NotFound',
+    metaInfo() {
+        return {
+            title: 'SkyFall Network | Not Found',
+        };
+    },
 };
 </script>
 
