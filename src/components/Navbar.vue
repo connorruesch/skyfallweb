@@ -6,9 +6,9 @@
         <b-collapse id="nav-collapse" is-nav>
             <b-navbar-nav class="links">
                 <b-nav-item class="padding" to="/">Home</b-nav-item>
-                <b-nav-item class="padding" to="/">Rules</b-nav-item>
-                <b-nav-item class="padding" to="/">Play</b-nav-item>
-                <b-nav-item class="padding" to="/">Announcements</b-nav-item>
+                <b-nav-item class="padding" to="/rules">Rules</b-nav-item>
+                <b-nav-item class="padding" to="/play">Play</b-nav-item>
+                <b-nav-item class="padding" to="/announcements">Announcements</b-nav-item>
             </b-navbar-nav>
 
             <a href="https://mcskyfall.org/discord" class="ml-auto discord">
