@@ -11,7 +11,7 @@
                 <b-nav-item class="padding" to="/">Announcements</b-nav-item>
             </b-navbar-nav>
 
-            <a href="#" class="ml-auto discord">
+            <a href="https://mcskyfall.org/discord" class="ml-auto discord">
                 <b-navbar-nav class="discord-icon">
                     <i class="fab fa-discord"></i>
                     <p>{{ discordOnline }} Online Members!</p>
